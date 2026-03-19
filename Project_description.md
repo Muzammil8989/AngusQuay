@@ -1,0 +1,35 @@
+```
+└── 📁src
+    └── 📁assets
+        └── 📁Images
+            └── Background_image.jpg
+            └── Background_review.jpg
+            └── Logo.jpeg
+            └── Restaurant.jpg
+    └── 📁components
+        └── 📁Footer
+            └── Footer.jsx
+        └── 📁Navbar
+            └── Navbar.jsx
+    └── 📁Pages
+        └── 📁About-us
+            └── About-us.jsx
+        └── 📁Contact-Us
+            └── ContactForm.jsx
+        └── 📁Home
+            └── GiftSection.jsx
+            └── Home.jsx
+            └── RestaurantMap.jsx
+            └── Review.jsx
+            └── Services.jsx
+            └── SocialSection.jsx
+        └── 📁MenuPrice
+            └── MenuPrice.jsx
+        └── 📁RestaurantHours
+            └── Project_description.md
+            └── RestaurantHours.jsx
+    └── App.css
+    └── App.jsx
+    └── index.css
+    └── main.jsx
+```
